@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "990646993021",
+    "project_id": "match-food",
+    "storage_bucket": "match-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990646993021:android:d69ecd0f9f7e85d2c17114",
+        "android_client_info": {
+          "package_name": "com.example.match_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990646993021-98rr33kugkqptphhm6h2rmknt51mg80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1drp7CsjY8gt2sRKqL57RXDI1LMrjPQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990646993021-98rr33kugkqptphhm6h2rmknt51mg80i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990646993021-4t0p2jfhhsdoa7k5cnklg1qh4st7c54n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.matchFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
